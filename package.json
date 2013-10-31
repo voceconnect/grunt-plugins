@@ -20,12 +20,7 @@
   "dependencies": {
     "matchdep": "~0.3.0"
   },
-  "devDependencies": {
-    "grunt": "~0.4.0",
-    "request": "~2.27.0",
-    "lodash": "~2.2.1",
-    "when": "~2.5.1"
-  },
+  "devDependencies": {},
   "peerDependencies": {
     "grunt-contrib-coffee": "latest",
     "grunt-coffeelint": "latest",
