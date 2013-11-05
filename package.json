@@ -28,8 +28,8 @@
     "grunt-contrib-jshint": "~0.6.4",
     "grunt-contrib-uglify": "~0.2.4",
     "grunt-contrib-watch": "~0.5.3",
-    "grunt-peon-build": "latest",
-    "grunt-peon-gui": "latest"
+    "grunt-peon-build": "~0.1.0",
+    "grunt-peon-gui": "~1.0.0"
   },
   "keywords": [
     "gruntplugin"
