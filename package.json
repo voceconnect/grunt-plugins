@@ -18,19 +18,18 @@
     "node": ">= 0.8.0"
   },
   "dependencies": {
-    "matchdep": "~0.3.0"
   },
   "peerDependencies": {
-    "grunt": "latest",
-    "grunt-contrib-coffee": "latest",
-    "grunt-coffeelint": "latest",
-    "grunt-contrib-compass": "latest",
-    "grunt-contrib-imagemin": "latest",
-    "grunt-contrib-jshint": "latest",
-    "grunt-contrib-uglify": "latest",
-    "grunt-contrib-watch": "latest",
-    "grunt-peon-gui": "latest",
-    "grunt-peon-build": "latest"
+    "grunt": "~0.4.0",
+    "grunt-coffeelint": "~0.0.7",
+    "grunt-contrib-coffee": "~0.7.0",
+    "grunt-contrib-compass": "~0.6.0",
+    "grunt-contrib-imagemin": "~0.3.0",
+    "grunt-contrib-jshint": "~0.6.4",
+    "grunt-contrib-uglify": "~0.2.4",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-peon-build": "latest",
+    "grunt-peon-gui": "latest"
   },
   "keywords": [
     "gruntplugin"
