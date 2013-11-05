@@ -30,7 +30,7 @@
     "grunt-contrib-uglify": "latest",
     "grunt-contrib-watch": "latest",
     "grunt-peon-gui": "latest",
-    "grunt-build": "git://github.com/voceconnect/grunt-build.git#master"
+    "grunt-peon-build": "latest"
   },
   "keywords": [
     "gruntplugin"
