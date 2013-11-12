@@ -1,18 +1,18 @@
 {
-  "name": "grunt-plugins",
+  "name": "grunt-voce-plugins",
   "description": "Common Grunt plugins for Voce Platforms",
   "version": "0.1.0",
-  "homepage": "https://github.com/voceconnect/grunt-plugins",
+  "homepage": "https://github.com/voceconnect/grunt-voce-plugins",
   "author": {
     "name": "Voce Platforms",
     "url": "http://voceplatforms.com/"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:voceconnect/grunt-plugins.git"
+    "url": "git@github.com:voceconnect/grunt-voce-plugins.git"
   },
   "bugs": {
-    "url": "https://github.com/voceconnect/grunt-plugins/issues"
+    "url": "https://github.com/voceconnect/grunt-voce-plugins/issues"
   },
   "engines": {
     "node": ">= 0.8.0"
