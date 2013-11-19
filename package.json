@@ -32,8 +32,8 @@
     "grunt-peon-build": "~0.1",
     "grunt-peon-gui": "~1.0",
     "grunt-composer": "~0.1",
-    "grunt-shell": "~0.1",
-    "grunt-hub": "~0.1"
+    "grunt-shell": "~0.6",
+    "grunt-hub": "~0.5"
   },
   "keywords": [
     "gruntplugin"
