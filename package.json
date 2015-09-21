@@ -1,7 +1,7 @@
 {
   "name": "grunt-voce-plugins",
   "description": "Common Grunt plugins for Voce Platforms",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "homepage": "https://github.com/voceconnect/grunt-voce-plugins",
   "author": {
     "name": "Voce Platforms",
@@ -28,7 +28,7 @@
     "grunt-contrib-concat": "~0.5",
     "grunt-contrib-imagemin": "~0.8",
     "grunt-contrib-jshint": "~0.10",
-    "grunt-contrib-uglify": "~0.5",
+    "grunt-contrib-uglify": "~0.9",
     "grunt-contrib-watch": "~0.6",
     "grunt-peon-build": "~0.1",
     "grunt-peon-gui": "~1.0",
